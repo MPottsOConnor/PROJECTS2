@@ -12,5 +12,5 @@ Java servlets:
 
 Web Pages/UI:
 
-- I was responsible for the majority of .html and .jsp pages in here
-- I also wrote the two NavBars (depending on whether the user is logged in or not) under 'WEB-INF'
+- I was responsible for all the .html and .jsp pages along with the css + bootstrapping
+- I also wrote the two NavBars
