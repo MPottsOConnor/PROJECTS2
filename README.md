@@ -2,6 +2,8 @@
 The files contained in this repository are all the .java and .jsp files that I was responsible for during a development project.
 The project involved creating a blog. 
 
+Unfortunately the completed blog has too many files for the one repository and we ran an apache server for the .jsp pages (self-hosted). 
+
 
 Java servlets:
 
